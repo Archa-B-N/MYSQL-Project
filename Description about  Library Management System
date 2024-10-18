@@ -1,0 +1,39 @@
+
+Library Management System
+
+A comprehensive database-driven Library Management System designed to track and manage information about books, employees, customers, and branches.
+
+Key Features:
+
+- Database design with six tables (Branch, Employee, Books, Customer, IssueStatus, ReturnStatus)
+- 12 SQL queries for various library operations (e.g., book availability, employee management, customer transactions)
+- Supports efficient management of library operations
+
+Technologies Used:
+
+- SQL (Structured Query Language)
+- Database Management System (DBMS)
+
+Project Objectives:
+
+- Develop a robust library management system
+- Implement efficient data management and retrieval
+- Provide insights into library operations
+
+Files Included:
+
+- SQL code for database creation and queries
+- Database schema
+- Screenshot images of query results
+
+Getting Started:
+
+1. Create a database named "library"
+2. Run the SQL code to create tables and populate data
+3. Execute queries to retrieve desired information
+
+Contribution Guidelines:
+
+- Fork the repository
+- Make changes or additions
+- Submit a pull request
